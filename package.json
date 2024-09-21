@@ -10,6 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.2.7",
+    "lottie-react-native": "^7.0.0",
     "react": "18.3.1",
     "react-native": "0.75.3"
   },
